@@ -52,6 +52,6 @@ I am an Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 ### :fire: My Stats :
 
 <div style="display: flex; justify-content: space-around;">
-    <img src="https://github-readme-stats.vercel.app/api?username=debasishbsws&show_icons=true&bg_color=00000000" alt="GitHub Stats" />
-    <img src="https://github-stats-alpha.vercel.app/api?username=debasishbsws&cc=222425&tc=fff&ic=fff&bc=222425" alt="Stats" style="margin-left: 20px;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=ashwikk&show_icons=true&bg_color=00000000" alt="GitHub Stats" />
+    <img src="https://github-stats-alpha.vercel.app/api?username=ashwikk&cc=222425&tc=fff&ic=fff&bc=222425" alt="Stats" style="margin-left: 20px;" />
 </div>
