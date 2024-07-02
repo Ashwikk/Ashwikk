@@ -114,7 +114,7 @@
 
 ----	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vinaytheprogrammer&theme=tokyonight_duo" alt="vinaytheprogrammer" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwikk&theme=tokyonight_duo" alt="ashwikk" /></p>
 
 </details>
   
@@ -123,8 +123,8 @@
 ----
 	
 <p align="center">
-	    <img alt="Vinaytheprogrammer's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vinaytheprogrammer&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vinaytheprogrammer&langs_count=10&show_icons=true&locale=en&theme=tokyonight"  height="230px"/>
+	    <img alt="ashwikk's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ashwikk&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashwikk&langs_count=10&show_icons=true&locale=en&theme=tokyonight"  height="230px"/>
 <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -137,7 +137,7 @@
 
 ----
 	
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=vinaytheprogrammer&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="vinaytheprogrammer" /> </p>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=ashwikk&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="ashwikk" /> </p>
 
 	
 </details>
