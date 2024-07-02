@@ -14,7 +14,7 @@
 
 <br><br>
 
-- University : I am a Student at [BML Munjal University]([https://www.bmu.edu.in/).
+- University : I am a Student at [BML Munjal University]([https://www.bmu.edu.in/]).
 - Technologist: I love using Software as a solution for every Problem.
 - Computer : I am a competitive programmer at Codeforces, Leetcode.
 - Student : I’m currently learning Computer Science and Software Engineering.
