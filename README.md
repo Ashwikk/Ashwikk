@@ -27,8 +27,8 @@
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
 
 <p align="center">
-<a href="https://codeforces.com/profile/vinaytheprogrammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="vinaytheprogrammer" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/vinayguptanitjsr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vinaytheprogrammer" height="30" width="40" /></a>
+
+<a href="https://leetcode.com/u/ashwikk/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ashwikk" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/vinaytheprogram1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vinaytheprogram1" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/vinaytheprogrammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="vinaytheprogrammer" height="30" width="40" /></a>
 <a href="https://codepen.io/vinaytheprogrammer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="vinaytheprogrammer" height="30" width="40" /></a>
