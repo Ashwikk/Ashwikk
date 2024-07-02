@@ -24,7 +24,7 @@ I am an Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/gip
 
 <!-- - :seedling: Exploring Technical Content Writing, and Learning DevOps Tech. -->
 
-- :mailbox:How to reach me: [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/debasishbsws)
+- :mailbox:How to reach me: [![Twitter Badge](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/ashwrathe)
 
 ---
 
