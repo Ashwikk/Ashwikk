@@ -1,13 +1,13 @@
 <div id="header" align="center">
  <img src="https://media.giphy.com/media/sO2cxg14iOifAWXsjQ/giphy.gif" alt="Monkey Hi" width="100"/>
   <div id="badges">
-  <a href="https://www.linkedin.com/in/debasish-biswas-58a689286/">
+  <a href="https://www.linkedin.com/in/ashwikk-patel">
     <img src="https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 <!--   </a>
     <a href="https://github.com/debasishbsws/resume">
     <img src="https://img.shields.io/badge/Resume-blueviolet?style=for-the-badge&logo=firefoxbrowser&logoColor=white" alt="Website Badge"/>
   </a> -->
-  <a href="https://twitter.com/debasishbsws">
+  <a href="https://twitter.com/ashwrathe">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=x&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -15,7 +15,7 @@
   
 </div>
 
-# :technologist: Debasish Biswas
+# :technologist: Ashwikk
 
 I am an Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from INDIA.
 - :telescope: I’m currently securing the software supply chain at Chainguard.
