@@ -42,7 +42,10 @@
 <a href="https://linkedin.com/in/ashwikk-patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashwikk-patel" height="30" width="40" /></a>
 <a href="https://instagram.com/a_shwikk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a
 								-shwikk" height="30" width="40" /></a>
-<a href="https://twitter.com.com/ashwrathe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashwrathe" height="30" width="40" /></a>   
+<a href="https://twitter.com/ashwrathe" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ashwrathe" height="30" width="40" />
+</a>
+
 </p>
 
 
