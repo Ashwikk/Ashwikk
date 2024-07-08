@@ -19,7 +19,7 @@
 - Computer : I am a competitive programmer at Codeforces, Leetcode.
 - Student : I’m currently learning Computer Science and Software Engineering.
 - Thinking : I’m currently open for a new job opportunity, this is [MY RESUME](https://drive.google.com/file/d/1p8Rbm5cJrCB6uVTMOf3LzzyEiCh4XoeR/view?usp=drive_link).
-- BOOM : You can visit [MY WEBSITE](https://github.com/ashwikk).
+- HERE: You can visit [MY WEBSITE](https://github.com/ashwikk).
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwikk&label=Profile%20views&color=0e75b6&style=flat" alt="ashwikk" /> </p>
